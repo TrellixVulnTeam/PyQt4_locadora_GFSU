@@ -19,7 +19,7 @@ O link abaixo contém algumas versões do PyQt4 compatíveis com algumas versõe
 https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyqt4
 
 Para instalar o arquivo wheel digite no terminal:
-pip install \.nome_do_arquivo_importa.whl
+pip install .\nome_do_arquivo_importa.whl
 
 Caso você deseja desenvolver um projeto em PyQt utilizando o QtDesigner como consta no vídeo, é preciso instalar.
 
