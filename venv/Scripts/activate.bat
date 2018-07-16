@@ -1,5 +1,5 @@
 @echo off
-set "VIRTUAL_ENV=c:\workspace\py\locadora\locadora\venv"
+set "VIRTUAL_ENV=C:\workspace\py\locadora\PyQt4_locadora\venv"
 
 if defined _OLD_VIRTUAL_PROMPT (
     set "PROMPT=%_OLD_VIRTUAL_PROMPT%"
