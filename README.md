@@ -4,9 +4,7 @@ Projeto da disciplina de Paradigmas de Linguagens de Programação do Centro Uni
 
 # Autores:
 
-Christian do Prado Silva
-Felipe Pinto Rodrigues
-Fernanda Ribas Pineda
+Christian do Prado Silva - Felipe Pinto Rodrigues - Fernanda Ribas Pineda
 
 # Link YouTube:
 
